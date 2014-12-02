@@ -1,0 +1,8 @@
+D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\Yanfeng.DesignPatters.Test.dll
+D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\Yanfeng.DesignPatters.Test.pdb
+D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\FactoryMethod.dll
+D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\FactoryMethod.pdb
+D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\obj\Debug\Yanfeng.DesignPatters.Test.csprojResolveAssemblyReference.cache
+D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\obj\Debug\Yanfeng.DesignPatters.Test.dll
+D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\obj\Debug\Yanfeng.DesignPatters.Test.pdb
+D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\Yanfeng.DesignPatters.Test.dll.config
