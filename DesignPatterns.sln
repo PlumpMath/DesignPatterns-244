@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yanfeng.DesignPatters.Test", "Yanfeng.DesignPatters.Test\Yanfeng.DesignPatters.Test.csproj", "{F38FA95A-C76A-47F8-838F-FEC64340BD33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{B40D87A0-D103-4F76-96B1-1E2882A5E27B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{F38FA95A-C76A-47F8-838F-FEC64340BD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F38FA95A-C76A-47F8-838F-FEC64340BD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F38FA95A-C76A-47F8-838F-FEC64340BD33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B40D87A0-D103-4F76-96B1-1E2882A5E27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40D87A0-D103-4F76-96B1-1E2882A5E27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40D87A0-D103-4F76-96B1-1E2882A5E27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40D87A0-D103-4F76-96B1-1E2882A5E27B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
