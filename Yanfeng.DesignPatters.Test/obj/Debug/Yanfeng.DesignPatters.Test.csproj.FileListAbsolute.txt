@@ -8,3 +8,7 @@ D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\obj\Deb
 D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\Yanfeng.DesignPatters.Test.dll.config
 D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\ObserverPattern.dll
 D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\ObserverPattern.pdb
+D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\CommandPattern.dll
+D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\DecoratorPatter.dll
+D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\CommandPattern.pdb
+D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\DecoratorPatter.pdb
