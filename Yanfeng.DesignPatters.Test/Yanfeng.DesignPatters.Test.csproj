@@ -55,6 +55,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="CharacterZTest.cs" />
     <Compile Include="DocumentInvokerTest.cs" />
     <Compile Include="LogPriorityWrapperTest.cs" />
     <Compile Include="LogTest.cs" />
@@ -73,6 +74,10 @@
     <ProjectReference Include="..\FactoryMethod\FactoryMethod.csproj">
       <Project>{82B8F5D1-7315-494B-8DE1-1315DAA538D0}</Project>
       <Name>FactoryMethod</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FlyweightPattern\FlyweightPattern.csproj">
+      <Project>{C5E8EC5A-3727-4205-A5CD-CC08D3E19719}</Project>
+      <Name>FlyweightPattern</Name>
     </ProjectReference>
     <ProjectReference Include="..\ObserverPattern\ObserverPattern.csproj">
       <Project>{b40d87a0-d103-4f76-96b1-1e2882a5e27b}</Project>

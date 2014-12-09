@@ -12,3 +12,5 @@ D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Deb
 D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\DecoratorPatter.dll
 D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\CommandPattern.pdb
 D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\DecoratorPatter.pdb
+D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\FlyweightPattern.dll
+D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\FlyweightPattern.pdb
