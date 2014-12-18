@@ -1,5 +1,4 @@
 D:\visual studio 2012\Projects\DesignPatterns\FlyweightPattern\bin\Debug\FlyweightPattern.dll
 D:\visual studio 2012\Projects\DesignPatterns\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
-D:\visual studio 2012\Projects\DesignPatterns\FlyweightPattern\obj\Debug\FlyweightPattern.csprojResolveAssemblyReference.cache
 D:\visual studio 2012\Projects\DesignPatterns\FlyweightPattern\obj\Debug\FlyweightPattern.dll
 D:\visual studio 2012\Projects\DesignPatterns\FlyweightPattern\obj\Debug\FlyweightPattern.pdb

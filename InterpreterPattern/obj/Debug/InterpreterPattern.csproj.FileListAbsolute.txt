@@ -1,0 +1,5 @@
+D:\visual studio 2012\Projects\DesignPatterns\InterpreterPattern\obj\Debug\InterpreterPattern.csprojResolveAssemblyReference.cache
+D:\visual studio 2012\Projects\DesignPatterns\InterpreterPattern\bin\Debug\InterpreterPattern.pdb
+D:\visual studio 2012\Projects\DesignPatterns\InterpreterPattern\obj\Debug\InterpreterPattern.pdb
+D:\visual studio 2012\Projects\DesignPatterns\InterpreterPattern\bin\Debug\InterpreterPattern.exe
+D:\visual studio 2012\Projects\DesignPatterns\InterpreterPattern\obj\Debug\InterpreterPattern.exe

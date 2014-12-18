@@ -1,5 +1,4 @@
 D:\visual studio 2012\Projects\DesignPatterns\DecoratorPatter\bin\Debug\DecoratorPatter.dll
 D:\visual studio 2012\Projects\DesignPatterns\DecoratorPatter\bin\Debug\DecoratorPatter.pdb
-D:\visual studio 2012\Projects\DesignPatterns\DecoratorPatter\obj\Debug\DecoratorPatter.csprojResolveAssemblyReference.cache
 D:\visual studio 2012\Projects\DesignPatterns\DecoratorPatter\obj\Debug\DecoratorPatter.dll
 D:\visual studio 2012\Projects\DesignPatterns\DecoratorPatter\obj\Debug\DecoratorPatter.pdb

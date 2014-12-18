@@ -1,5 +1,4 @@
 D:\visual studio 2012\Projects\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.dll
 D:\visual studio 2012\Projects\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.pdb
-D:\visual studio 2012\Projects\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
 D:\visual studio 2012\Projects\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.dll
 D:\visual studio 2012\Projects\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.pdb

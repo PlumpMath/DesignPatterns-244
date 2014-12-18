@@ -1,0 +1,4 @@
+D:\visual studio 2012\Projects\DesignPatterns\Mediator\bin\Debug\Mediator.dll
+D:\visual studio 2012\Projects\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+D:\visual studio 2012\Projects\DesignPatterns\Mediator\obj\Debug\Mediator.dll
+D:\visual studio 2012\Projects\DesignPatterns\Mediator\obj\Debug\Mediator.pdb
