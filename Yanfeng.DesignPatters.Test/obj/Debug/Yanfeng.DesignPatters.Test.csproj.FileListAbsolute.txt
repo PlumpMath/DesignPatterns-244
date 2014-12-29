@@ -18,3 +18,23 @@ D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Deb
 D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\Yanfeng.DesignPatters.Test.pdb
 D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\MementoPattern.dll
 D:\visual studio 2012\Projects\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\MementoPattern.pdb
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\Yanfeng.DesignPatters.Test.dll.config
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\Yanfeng.DesignPatters.Test.dll
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\Yanfeng.DesignPatters.Test.pdb
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\CommandPattern.dll
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\DecoratorPatter.dll
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\FactoryMethod.dll
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\FlyweightPattern.dll
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\Mediator.dll
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\MementoPattern.dll
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\ObserverPattern.dll
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\CommandPattern.pdb
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\DecoratorPatter.pdb
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\FactoryMethod.pdb
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\FlyweightPattern.pdb
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\Mediator.pdb
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\MementoPattern.pdb
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\bin\Debug\ObserverPattern.pdb
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\obj\Debug\Yanfeng.DesignPatters.Test.csprojResolveAssemblyReference.cache
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\obj\Debug\Yanfeng.DesignPatters.Test.dll
+G:\GitHub\src\DesignPatterns\Yanfeng.DesignPatters.Test\obj\Debug\Yanfeng.DesignPatters.Test.pdb

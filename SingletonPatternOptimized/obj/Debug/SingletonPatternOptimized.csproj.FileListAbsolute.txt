@@ -1,0 +1,6 @@
+G:\GitHub\src\DesignPatterns\SingletonPatternOptimized\bin\Debug\SingletonPatternOptimized.exe.config
+G:\GitHub\src\DesignPatterns\SingletonPatternOptimized\bin\Debug\SingletonPatternOptimized.exe
+G:\GitHub\src\DesignPatterns\SingletonPatternOptimized\bin\Debug\SingletonPatternOptimized.pdb
+G:\GitHub\src\DesignPatterns\SingletonPatternOptimized\obj\Debug\SingletonPatternOptimized.csprojResolveAssemblyReference.cache
+G:\GitHub\src\DesignPatterns\SingletonPatternOptimized\obj\Debug\SingletonPatternOptimized.exe
+G:\GitHub\src\DesignPatterns\SingletonPatternOptimized\obj\Debug\SingletonPatternOptimized.pdb

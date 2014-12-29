@@ -3,3 +3,8 @@ D:\visual studio 2012\Projects\DesignPatterns\MementoPattern\bin\Debug\MementoPa
 D:\visual studio 2012\Projects\DesignPatterns\MementoPattern\obj\Debug\MementoPattern.csprojResolveAssemblyReference.cache
 D:\visual studio 2012\Projects\DesignPatterns\MementoPattern\obj\Debug\MementoPattern.dll
 D:\visual studio 2012\Projects\DesignPatterns\MementoPattern\obj\Debug\MementoPattern.pdb
+G:\GitHub\src\DesignPatterns\MementoPattern\bin\Debug\MementoPattern.dll
+G:\GitHub\src\DesignPatterns\MementoPattern\bin\Debug\MementoPattern.pdb
+G:\GitHub\src\DesignPatterns\MementoPattern\obj\Debug\MementoPattern.csprojResolveAssemblyReference.cache
+G:\GitHub\src\DesignPatterns\MementoPattern\obj\Debug\MementoPattern.dll
+G:\GitHub\src\DesignPatterns\MementoPattern\obj\Debug\MementoPattern.pdb

@@ -3,3 +3,8 @@ D:\visual studio 2012\Projects\DesignPatterns\InterpreterPattern\bin\Debug\Inter
 D:\visual studio 2012\Projects\DesignPatterns\InterpreterPattern\obj\Debug\InterpreterPattern.pdb
 D:\visual studio 2012\Projects\DesignPatterns\InterpreterPattern\bin\Debug\InterpreterPattern.exe
 D:\visual studio 2012\Projects\DesignPatterns\InterpreterPattern\obj\Debug\InterpreterPattern.exe
+G:\GitHub\src\DesignPatterns\InterpreterPattern\bin\Debug\InterpreterPattern.exe
+G:\GitHub\src\DesignPatterns\InterpreterPattern\bin\Debug\InterpreterPattern.pdb
+G:\GitHub\src\DesignPatterns\InterpreterPattern\obj\Debug\InterpreterPattern.csprojResolveAssemblyReference.cache
+G:\GitHub\src\DesignPatterns\InterpreterPattern\obj\Debug\InterpreterPattern.exe
+G:\GitHub\src\DesignPatterns\InterpreterPattern\obj\Debug\InterpreterPattern.pdb

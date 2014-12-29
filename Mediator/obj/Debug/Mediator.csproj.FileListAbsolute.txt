@@ -2,3 +2,8 @@ D:\visual studio 2012\Projects\DesignPatterns\Mediator\bin\Debug\Mediator.dll
 D:\visual studio 2012\Projects\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
 D:\visual studio 2012\Projects\DesignPatterns\Mediator\obj\Debug\Mediator.dll
 D:\visual studio 2012\Projects\DesignPatterns\Mediator\obj\Debug\Mediator.pdb
+G:\GitHub\src\DesignPatterns\Mediator\bin\Debug\Mediator.dll
+G:\GitHub\src\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+G:\GitHub\src\DesignPatterns\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+G:\GitHub\src\DesignPatterns\Mediator\obj\Debug\Mediator.dll
+G:\GitHub\src\DesignPatterns\Mediator\obj\Debug\Mediator.pdb
